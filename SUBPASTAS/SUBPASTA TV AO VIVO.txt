@@ -31,7 +31,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 07/06/2022
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]EXCELENTE[/B][/COLOR]
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR yellow][B]BOM[/B][/COLOR]
 
 O status do servidor é atualizado somente se houver alterações nele.
 
