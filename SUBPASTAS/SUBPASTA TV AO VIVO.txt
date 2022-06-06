@@ -39,7 +39,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-   [COLOR yellow][B][I]Em manutenção[/I][/B][/COLOR]</name>
+     [COLOR yellow][B][I]Em manutenção[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%204..txt</externallink>
 <fanart></fanart>
