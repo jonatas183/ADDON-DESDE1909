@@ -49,4 +49,4 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 O status do servidor é atualizado somente se houver alterações nele.
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]05/06/2022[/B][/COLOR] - [COLOR lime][B]22:00[/B][/COLOR]</info>
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]06/06/2022[/B][/COLOR] - [COLOR lime][B]09:30[/B][/COLOR]</info>
