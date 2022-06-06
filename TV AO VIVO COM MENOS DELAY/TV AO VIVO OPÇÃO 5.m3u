@@ -1,0 +1,181 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="BR : A & E" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : A & E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92727
+#EXTINF: -1 tvg-name="BR : AMC" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : AMC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92726
+#EXTINF: -1 tvg-name="BR : ANIMAL PLANET" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92725
+#EXTINF: -1 tvg-name="BR : AXN" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : AXN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92724
+#EXTINF: -1 tvg-name="BR : BAND" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : BAND
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92735
+#EXTINF: -1 tvg-name="BR : BAND NEWS" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : BAND NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92723
+#EXTINF: -1 tvg-name="BR : BAND SP" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : BAND SP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92722
+#EXTINF: -1 tvg-name="BR : BOOMERANG" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92720
+#EXTINF: -1 tvg-name="BR : CARTOON NETWORK" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92719
+#EXTINF: -1 tvg-name="BR : CINEMAX" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92718
+#EXTINF: -1 tvg-name="BR : COMBATE" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : COMBATE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92717
+#EXTINF: -1 tvg-name="BR : COMEDY CENTRAL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92716
+#EXTINF: -1 tvg-name="BR : DISCOVERY CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92715
+#EXTINF: -1 tvg-name="BR : DISCOVERY CHANNEL" tvg-logo="http://p2086.securepoint.io:2086/images/d40b311b0a72f4a1303b01c998b42181.png" group-title="BRAZILIAN TV", BR : DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92734
+#EXTINF: -1 tvg-name="BR : DISCOVERY CIVILIZATION" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92714
+#EXTINF: -1 tvg-name="BR : DISCOVERY H&H" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92713
+#EXTINF: -1 tvg-name="BR : DISCOVERY HOME & HEALTH" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92712
+#EXTINF: -1 tvg-name="BR : DISCOVERY KIDS" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92711
+#EXTINF: -1 tvg-name="BR : DISCOVERY THEATER" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92710
+#EXTINF: -1 tvg-name="BR : DISCOVERY TURBO" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92708
+#EXTINF: -1 tvg-name="BR : DISCOVERY WORLD" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92707
+#EXTINF: -1 tvg-name="BR : DISNEY CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92706
+#EXTINF: -1 tvg-name="BR : DISNEY JR" tvg-logo="http://p2086.securepoint.io:2086/images/42537f0fb56e31e20ab9c2305752087d.png" group-title="BRAZILIAN TV", BR : DISNEY JR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92705
+#EXTINF: -1 tvg-name="BR : DISNEY XD" tvg-logo="http://p2086.securepoint.io:2086/images/42537f0fb56e31e20ab9c2305752087d.png" group-title="BRAZILIAN TV", BR : DISNEY XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92704
+#EXTINF: -1 tvg-name="BR : ESPN" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92702
+#EXTINF: -1 tvg-name="BR : ESPN 2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92736
+#EXTINF: -1 tvg-name="BR : ESPN BRASIL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92701
+#EXTINF: -1 tvg-name="BR : FOOD NETWORK" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92700
+#EXTINF: -1 tvg-name="BR : FOX" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : FOX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92699
+#EXTINF: -1 tvg-name="BR : FOX LIFE" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92698
+#EXTINF: -1 tvg-name="BR : FOX SPORTS 1" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : FOX SPORTS 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92696
+#EXTINF: -1 tvg-name="BR : FOX SPORTS 2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92695
+#EXTINF: -1 tvg-name="BR : GLOBO BRASILIA" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92692
+#EXTINF: -1 tvg-name="BR : GLOBO NEWS" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92691
+#EXTINF: -1 tvg-name="BR : GLOBOSAT" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : GLOBOSAT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92687
+#EXTINF: -1 tvg-name="BR : GLOOB" tvg-logo="http://p2086.securepoint.io:2086/images/42537f0fb56e31e20ab9c2305752087d.png" group-title="BRAZILIAN TV", BR : GLOOB
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92686
+#EXTINF: -1 tvg-name="BR : GNT" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : GNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92685
+#EXTINF: -1 tvg-name="BR : H2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : H2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92684
+#EXTINF: -1 tvg-name="BR : HBO" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92680
+#EXTINF: -1 tvg-name="BR : HBO 2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92682
+#EXTINF: -1 tvg-name="BR : HBO FAMILY" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92681
+#EXTINF: -1 tvg-name="BR : HBO PLUS" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HBO PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92679
+#EXTINF: -1 tvg-name="BR : HBO SIGNATURE" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92678
+#EXTINF: -1 tvg-name="BR : HISTORY CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92677
+#EXTINF: -1 tvg-name="BR : HISTORY CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92732
+#EXTINF: -1 tvg-name="BR : INVESTIGACAO DISCOVERY" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : INVESTIGACAO DISCOVERY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92676
+#EXTINF: -1 tvg-name="BR : LIFETIME" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : LIFETIME
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92675
+#EXTINF: -1 tvg-name="BR : MEGAPIX" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : MEGAPIX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92671
+#EXTINF: -1 tvg-name="BR : MTV" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : MTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92670
+#EXTINF: -1 tvg-name="BR : MULTISHOW" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : MULTISHOW
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92669
+#EXTINF: -1 tvg-name="BR : NAT GEO" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NAT GEO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92668
+#EXTINF: -1 tvg-name="BR : NAT GEO KIDS" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NAT GEO KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92667
+#EXTINF: -1 tvg-name="BR : NATGEO WILD" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NATGEO WILD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92666
+#EXTINF: -1 tvg-name="BR : NATIONAL GEOGRAPHIC" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92665
+#EXTINF: -1 tvg-name="BR : NICK JR" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NICK JR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92664
+#EXTINF: -1 tvg-name="BR : NICKELODEON" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92663
+#EXTINF: -1 tvg-name="BR : OFF" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : OFF
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92662
+#EXTINF: -1 tvg-name="BR : PARAMOUNT CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92661
+#EXTINF: -1 tvg-name="BR : PREMIERE 2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PREMIERE 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92660
+#EXTINF: -1 tvg-name="BR : PREMIERE 3" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PREMIERE 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92659
+#EXTINF: -1 tvg-name="BR : PREMIERE 4" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PREMIERE 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92658
+#EXTINF: -1 tvg-name="BR : PREMIERE 5" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PREMIERE 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92657
+#EXTINF: -1 tvg-name="BR : PREMIERE CLUBES" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92656
+#EXTINF: -1 tvg-name="BR : RECORD" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92655
+#EXTINF: -1 tvg-name="BR : RECORD SP" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : RECORD SP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92654
+#EXTINF: -1 tvg-name="BR : REDE NEW" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : REDE NEW
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92653
+#EXTINF: -1 tvg-name="BR : REDE TV" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : REDE TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92652
+#EXTINF: -1 tvg-name="BR : SONY" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SONY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92649
+#EXTINF: -1 tvg-name="BR : SPACE" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SPACE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92648
+#EXTINF: -1 tvg-name="BR : SPORTV" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SPORTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92645
+#EXTINF: -1 tvg-name="BR : SPORTV 1" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SPORTV 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92731
+#EXTINF: -1 tvg-name="BR : SPORTV 2" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SPORTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92647
+#EXTINF: -1 tvg-name="BR : SPORTV 3" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SPORTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92646
+#EXTINF: -1 tvg-name="BR : STUDIO UNIVERSAL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92644
+#EXTINF: -1 tvg-name="BR : SYFY" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92643
+#EXTINF: -1 tvg-name="BR : TELECINE ACTION" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92642
+#EXTINF: -1 tvg-name="BR : TELECINE ACTION" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92730
+#EXTINF: -1 tvg-name="BR : TELECINE CULT" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE CULT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92641
+#EXTINF: -1 tvg-name="BR : TELECINE FUN" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE FUN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92640
+#EXTINF: -1 tvg-name="BR : TELECINE FUN" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE FUN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92729
+#EXTINF: -1 tvg-name="BR : TELECINE PIPOCA" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92639
+#EXTINF: -1 tvg-name="BR : TELECINE PREMIUM" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92638
+#EXTINF: -1 tvg-name="BR : TELECINE PREMIUM" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92728
+#EXTINF: -1 tvg-name="BR : TELECINE TOUCH" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92637
+#EXTINF: -1 tvg-name="BR : TNT" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : TNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92635
+#EXTINF: -1 tvg-name="BR : TNT SERIES" tvg-logo="http://p2086.securepoint.io:2086/images/d40b311b0a72f4a1303b01c998b42181.png" group-title="BRAZILIAN TV", BR : TNT SERIES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92634
+#EXTINF: -1 tvg-name="BR : UNIVERSAL CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92633
+#EXTINF: -1 tvg-name="BR : VIVA" tvg-logo="http://p2086.securepoint.io:2086/images/42537f0fb56e31e20ab9c2305752087d.png" group-title="BRAZILIAN TV", BR : VIVA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92632
+#EXTINF: -1 tvg-name="BR : WARNER CHANNEL" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92631
+#EXTINF: -1 tvg-name="BR : WOOHOO" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV", BR : WOOHOO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/kixy2030/u8zC9nvB69/92630
