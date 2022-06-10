@@ -26,7 +26,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]UHD[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-        [COLOR yellow[B][I]Manutenção prevista para o dia[/I][/B][/COLOR]: 10/06/2022</name>
+     [COLOR yellow][B][I]Manutenção prevista para o dia[/I][/B][/COLOR]: 10/06/2022</name>
 <thumbnail>https://i.ibb.co/9NFSD73/op-o-3.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203.txt</externallink>
 <fanart></fanart>
@@ -53,7 +53,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 5[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-        [COLOR yellow[B][I]Manutenção prevista para o dia[/I][/B][/COLOR]: 10/06/2022</name>
+     [COLOR yellow][B][I]Manutenção prevista para o dia[/I][/B][/COLOR]: 10/06/2022</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%205.m3u</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 15/06/2022
