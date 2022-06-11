@@ -1,0 +1,591 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries", A&E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/898.m3u8
+#EXTINF: -1 tvg-id="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries", A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/4203.m3u8
+#EXTINF: -1 tvg-id="MGH" tvg-name="AMC" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries", AMC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5077.m3u8
+#EXTINF: -1 tvg-id="MGM" tvg-name="AMC HD" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e Séries", AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5076.m3u8
+#EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries", AXN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/893.m3u8
+#EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e Séries", AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/892.m3u8
+#EXTINF: -1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil" tvg-logo="http://img.miptv.ws/Canal_Brasil.png" group-title="Filmes e Séries", Canal Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/883.m3u8
+#EXTINF: -1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries", Cinemax
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/876.m3u8
+#EXTINF: -1 tvg-id="MNX" tvg-name="Cinemax HD" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e Séries", Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1495.m3u8
+#EXTINF: -1 tvg-id="Fox Sport HD" tvg-name="FOX" tvg-logo="http://img.miptv.ws/FOX.png" group-title="Filmes e Séries", FOX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/844.m3u8
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries", FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/841.m3u8
+#EXTINF: -1 tvg-id="FOX" tvg-name="Fox Full HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e Séries", Fox Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5473.m3u8
+#EXTINF: -1 tvg-id="FO1" tvg-name="Fox Premium" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries", Fox Premium
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5318.m3u8
+#EXTINF: -1 tvg-id="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e Séries", FOX Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/843.m3u8
+#EXTINF: -1 tvg-id="FOA" tvg-name="Fox Premium 2" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries", Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5317.m3u8
+#EXTINF: -1 tvg-id="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries", FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/842.m3u8
+#EXTINF: -1 tvg-id="FOA" tvg-name="Fox Premium 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e Séries", Fox Premium 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5429.m3u8
+#EXTINF: -1 tvg-id="FLI" tvg-name="Fox Life" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries", Fox Life
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/840.m3u8
+#EXTINF: -1 tvg-id="FLI" tvg-name="FOX Life HD" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e Séries", FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/839.m3u8
+#EXTINF: -1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries", FX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/833.m3u8
+#EXTINF: -1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries", FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/832.m3u8
+#EXTINF: -1 tvg-id="Mais Globosat HD" tvg-name="+Globosat" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries", +Globosat
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/804.m3u8
+#EXTINF: -1 tvg-id="GHS" tvg-name="+Globosat HD" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e Séries", +Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1488.m3u8
+#EXTINF: -1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries", HBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/820.m3u8
+#EXTINF: -1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries", HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/816.m3u8
+#EXTINF: -1 tvg-id="HBO" tvg-name="HBO Full HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries", HBO Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5467.m3u8
+#EXTINF: -1 tvg-id="Hbo.br" tvg-name="HBO 2" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries", HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/810.m3u8
+#EXTINF: -1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e Séries", HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/819.m3u8
+#EXTINF: -1 tvg-id="H2H" tvg-name="HBO 2 Full HD" tvg-logo="http://img.miptv.ws/HBO_2.png" group-title="Filmes e Séries", HBO 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5468.m3u8
+#EXTINF: -1 tvg-id="Hbofamily.br" tvg-name="HBO Family" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries", HBO Family
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/818.m3u8
+#EXTINF: -1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e Séries", HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/817.m3u8
+#EXTINF: -1 tvg-id="Hboplus.br" tvg-name="HBO Plus" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries", HBO Plus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/815.m3u8
+#EXTINF: -1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e Séries", HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/813.m3u8
+#EXTINF: -1 tvg-id="Hbosignature.br" tvg-name="HBO Signature" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries", HBO Signature
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/812.m3u8
+#EXTINF: -1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e Séries", HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/811.m3u8
+#EXTINF: -1 tvg-id="Max.br" tvg-name="HBO MUNDI" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries", HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/803.m3u8
+#EXTINF: -1 tvg-id="MHD" tvg-name="HBO MUNDI HD" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e Séries", HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1497.m3u8
+#EXTINF: -1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries", HBO XTREME
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/802.m3u8
+#EXTINF: -1 tvg-id="Sony.br" tvg-name="Sony" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries", Sony
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/881.m3u8
+#EXTINF: -1 tvg-id="Sony.br" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries", Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/880.m3u8
+#EXTINF: -1 tvg-id="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e Séries", HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1487.m3u8
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="MegaPix" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries", MegaPix
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/799.m3u8
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e Séries", Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/798.m3u8
+#EXTINF: -1 tvg-id="PAR" tvg-name="Paramount Channel" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries", Paramount Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/783.m3u8
+#EXTINF: -1 tvg-id="PAQ" tvg-name="Paramount Channel HD" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e Séries", Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/782.m3u8
+#EXTINF: -1 tvg-id="Space.br" tvg-name="Space" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries", Space
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/753.m3u8
+#EXTINF: -1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e Séries", Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/752.m3u8
+#EXTINF: -1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e Séries", Studio Universal
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/743.m3u8
+#EXTINF: -1 tvg-id="HAL" tvg-name="Studio Universal HD" tvg-logo="http://img.miptv.ws/Studio_Universal.png" group-title="Filmes e Séries", Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1480.m3u8
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="Syfy" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries", Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/742.m3u8
+#EXTINF: -1 tvg-id="SCI" tvg-name="Syfy HD" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e Séries", Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1483.m3u8
+#EXTINF: -1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries", TBS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/741.m3u8
+#EXTINF: -1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e Séries", TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/740.m3u8
+#EXTINF: -1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e Séries", TCM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/734.m3u8
+#EXTINF: -1 tvg-id="Tcaction.br" tvg-name="Telecine Action" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries", Telecine Action
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/733.m3u8
+#EXTINF: -1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e Séries", Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/739.m3u8
+#EXTINF: -1 tvg-id="Telecine Action HD" tvg-name="Telecine Action Full HD" tvg-logo="http://img.miptv.ws/Telecine_Action.png" group-title="Filmes e Séries", Telecine Action Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5464.m3u8
+#EXTINF: -1 tvg-id="Tccult.br" tvg-name="Telecine Cult" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries", Telecine Cult
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/732.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e Séries", Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1482.m3u8
+#EXTINF: -1 tvg-id="Tcfun.br" tvg-name="Telecine Fun" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries", Telecine Fun
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/731.m3u8
+#EXTINF: -1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e Séries", Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/738.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun Full HD" tvg-logo="http://img.miptv.ws/Telecine_Fun.png" group-title="Filmes e Séries", Telecine Fun Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5463.m3u8
+#EXTINF: -1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries", Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/730.m3u8
+#EXTINF: -1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e Séries", Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/737.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca Full HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca.png" group-title="Filmes e Séries", Telecine Pipoca Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5462.m3u8
+#EXTINF: -1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries", Telecine Premium
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/729.m3u8
+#EXTINF: -1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e Séries", Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/736.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium Full HD" tvg-logo="http://img.miptv.ws/Telecine_Premium.png" group-title="Filmes e Séries", Telecine Premium Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5461.m3u8
+#EXTINF: -1 tvg-id="Tctouch.br" tvg-name="Telecine Touch" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries", Telecine Touch
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/728.m3u8
+#EXTINF: -1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e Séries", Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/735.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch Full HD" tvg-logo="http://img.miptv.ws/Telecine_Touch.png" group-title="Filmes e Séries", Telecine Touch Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5460.m3u8
+#EXTINF: -1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries", TNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/724.m3u8
+#EXTINF: -1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e Séries", TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/723.m3u8
+#EXTINF: -1 tvg-id="TNTSerie.br" tvg-name="TNT Séries" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries", TNT Séries
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/722.m3u8
+#EXTINF: -1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e Séries", TNT Séries HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/721.m3u8
+#EXTINF: -1 tvg-id="USA" tvg-name="Universal Channel" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries", Universal Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/711.m3u8
+#EXTINF: -1 tvg-id="USA" tvg-name="Universal Channel HD" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e Séries", Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/710.m3u8
+#EXTINF: -1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries", Warner Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/706.m3u8
+#EXTINF: -1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries", Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/705.m3u8
+#EXTINF: -1 tvg-id="WBT" tvg-name="Warner Full HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e Séries", Warner Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5425.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13739.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13740.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13741.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13742.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13743.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13744.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13745.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13746.m3u8
+#EXTINF: -1 tvg-name="CINE SKY PLAY 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br.jpg" group-title="Filmes e Séries", CINE SKY PLAY 9
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13747.m3u8
+#EXTINF: -1 tvg-id="BAB" tvg-name="Baby TV" tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="Infantil", Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5078.m3u8
+#EXTINF: -1 tvg-id="Boomerang.br" tvg-name="Boomerang" tvg-logo="http://img.miptv.ws/Boomerang_HD.png" group-title="Infantil", Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/884.m3u8
+#EXTINF: -1 tvg-id="BMF" tvg-name="Boomerang HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil", Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5327.m3u8
+#EXTINF: -1 tvg-id="BMG" tvg-name="Boomerang Full HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil", Boomerang Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5434.m3u8
+#EXTINF: -1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil", Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/878.m3u8
+#EXTINF: -1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil", Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/877.m3u8
+#EXTINF: -1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil", Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/866.m3u8
+#EXTINF: -1 tvg-id="DIK" tvg-name="Discovery Kids HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil", Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1494.m3u8
+#EXTINF: -1 tvg-id="DIK" tvg-name="Discovery kids Full HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil", Discovery kids Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5432.m3u8
+#EXTINF: -1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil", Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/860.m3u8
+#EXTINF: -1 tvg-id="DIH" tvg-name="Disney Channel HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil", Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1493.m3u8
+#EXTINF: -1 tvg-id="DNY" tvg-name="Disney Channel Full HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil", Disney Channel Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5446.m3u8
+#EXTINF: -1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil", Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/859.m3u8
+#EXTINF: -1 tvg-id="PHD" tvg-name="Disney Junior HD" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil", Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5562.m3u8
+#EXTINF: -1 tvg-id="Disneyxd.br" tvg-name="Disney XD" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil", Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/858.m3u8
+#EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil", Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/825.m3u8
+#EXTINF: -1 tvg-id="GOB" tvg-name="Gloob HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil", Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1490.m3u8
+#EXTINF: -1 tvg-id="GOB" tvg-name="Gloob Full HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil", Gloob Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5441.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Gloobinho" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil", Gloobinho
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5306.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Gloobinho HD" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil", Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5305.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Natgeo Kids" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil", Natgeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5303.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Natgeo Kids HD" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil", Natgeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5302.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil", Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/787.m3u8
+#EXTINF: -1 tvg-id="NIC" tvg-name="Nickelodeon HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil", Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1484.m3u8
+#EXTINF: -1 tvg-id="NIC" tvg-name="Nicklodeon Full HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil", Nicklodeon Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5426.m3u8
+#EXTINF: -1 tvg-id="NickJr.br" tvg-name="Nick Jr." tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil", Nick Jr.
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/788.m3u8
+#EXTINF: -1 tvg-id="NJR" tvg-name="Nick Jr. HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil", Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5301.m3u8
+#EXTINF: -1 tvg-id="NJR" tvg-name="Nick JR Full HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil", Nick JR Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5427.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="PlayKids" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil", PlayKids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/7563.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="PlayKids HD" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil", PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/7564.m3u8
+#EXTINF: -1 tvg-id="Tooncast.br" tvg-name="Tooncast" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil", Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/720.m3u8
+#EXTINF: -1 tvg-id="Tvratimbum.br" tvg-name="TV Rá Tim Bum" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil", TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/715.m3u8
+#EXTINF: -1 tvg-id="RTB" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil", TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5292.m3u8
+#EXTINF: -1 tvg-id="Bandsportshd.br" tvg-name="Band Sports" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes", Band Sports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/889.m3u8
+#EXTINF: -1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes", Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/888.m3u8
+#EXTINF: -1 tvg-id="Combatehd.br" tvg-name="Combate" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes", Combate
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/875.m3u8
+#EXTINF: -1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes", Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/874.m3u8
+#EXTINF: -1 tvg-id="135" tvg-name="Combate Full HD" tvg-logo="http://img.miptv.ws/Combate_HD.png" group-title="Esportes", Combate Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5474.m3u8
+#EXTINF: -1 tvg-id="ESQ" tvg-name="ESPN" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes", ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/4643.m3u8
+#EXTINF: -1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes", ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/848.m3u8
+#EXTINF: -1 tvg-id="ESQ" tvg-name="ESPN Full HD" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes", ESPN Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5458.m3u8
+#EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN +  HD" tvg-logo="http://img.miptv.ws/ESPN_Mais.png" group-title="Esportes", ESPN +  HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/851.m3u8
+#EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes", ESPN Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/850.m3u8
+#EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes", ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/849.m3u8
+#EXTINF: -1 tvg-id="ESB" tvg-name="ESPN Brasil Full HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes", ESPN Brasil Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5459.m3u8
+#EXTINF: -1 tvg-id="ESR" tvg-name="Espn Extra" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes", Espn Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5321.m3u8
+#EXTINF: -1 tvg-id="ESR" tvg-name="Espn Extra HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes", Espn Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5320.m3u8
+#EXTINF: -1 tvg-id="ESR" tvg-name="ESPN Extra Full HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes", ESPN Extra Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5457.m3u8
+#EXTINF: -1 tvg-id="Fishtv.br" tvg-name="Fish TV" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes", Fish TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/846.m3u8
+#EXTINF: -1 tvg-id="BQ6" tvg-name="Fish TV HD" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes", Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5319.m3u8
+#EXTINF: -1 tvg-id="Foxsports.br" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes", Fox Sports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/837.m3u8
+#EXTINF: -1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes", Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/838.m3u8
+#EXTINF: -1 tvg-id="FSP" tvg-name="Fox Sports Full HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes", Fox Sports Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5418.m3u8
+#EXTINF: -1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes", Fox Sports 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/836.m3u8
+#EXTINF: -1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes", FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/835.m3u8
+#EXTINF: -1 tvg-id="FS2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes", Fox Sports 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5456.m3u8
+#EXTINF: -1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes", OFF
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/785.m3u8
+#EXTINF: -1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes", OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/784.m3u8
+#EXTINF: -1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", Premiere Clubes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/767.m3u8
+#EXTINF: -1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://img.miptv.ws/Premiere_1_HD.png" group-title="Esportes", Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/780.m3u8
+#EXTINF: -1 tvg-id="121" tvg-name="Premiere Clubes Full HD" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", Premiere Clubes Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5455.m3u8
+#EXTINF: -1 tvg-id="121" tvg-name="Premiere Clubes HD [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", Premiere Clubes HD [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1852.m3u8
+#EXTINF: -1 tvg-id="9A2" tvg-name="PFC 2" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes", PFC 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/779.m3u8
+#EXTINF: -1 tvg-id="9A2" tvg-name="PFC 2 HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes", PFC 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/778.m3u8
+#EXTINF: -1 tvg-id="9A2" tvg-name="PFC 2 Full HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes", PFC 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5454.m3u8
+#EXTINF: -1 tvg-id="9A2" tvg-name="PFC 2 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", PFC 2 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1853.m3u8
+#EXTINF: -1 tvg-id="9A3" tvg-name="PFC 3" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes", PFC 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/777.m3u8
+#EXTINF: -1 tvg-id="9A3" tvg-name="PFC 3 HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes", PFC 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/776.m3u8
+#EXTINF: -1 tvg-id="9A3" tvg-name="PFC 3 Full HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes", PFC 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5453.m3u8
+#EXTINF: -1 tvg-id="9A3" tvg-name="PFC 3 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", PFC 3 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1854.m3u8
+#EXTINF: -1 tvg-id="9A4" tvg-name="PFC 4" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes", PFC 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/775.m3u8
+#EXTINF: -1 tvg-id="9A4" tvg-name="PFC 4 HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes", PFC 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/774.m3u8
+#EXTINF: -1 tvg-id="9A4" tvg-name="PFC 4 Full HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes", PFC 4 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5452.m3u8
+#EXTINF: -1 tvg-id="9A4" tvg-name="PFC 4 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", PFC 4 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1855.m3u8
+#EXTINF: -1 tvg-id="9A5" tvg-name="PFC 5" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes", PFC 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/773.m3u8
+#EXTINF: -1 tvg-id="9A5" tvg-name="PFC 5 HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes", PFC 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/772.m3u8
+#EXTINF: -1 tvg-id="9A5" tvg-name="PFC 5 Full HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes", PFC 5 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5451.m3u8
+#EXTINF: -1 tvg-id="9A5" tvg-name="PFC 5 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes", PFC 5 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/1856.m3u8
+#EXTINF: -1 tvg-id="9A6" tvg-name="PFC 6" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes", PFC 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/771.m3u8
+#EXTINF: -1 tvg-id="9A6" tvg-name="PFC 6 HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes", PFC 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/4123.m3u8
+#EXTINF: -1 tvg-id="9A6" tvg-name="PFC 6 Full HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes", PFC 6 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5450.m3u8
+#EXTINF: -1 tvg-id="9A6" tvg-name="PFC 6 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes", PFC 6 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5330.m3u8
+#EXTINF: -1 tvg-id="9A7" tvg-name="PFC 7" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes", PFC 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/770.m3u8
+#EXTINF: -1 tvg-id="9A7" tvg-name="PFC 7 HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes", PFC 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/4122.m3u8
+#EXTINF: -1 tvg-id="9A7" tvg-name="PFC 7 Full HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes", PFC 7 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5449.m3u8
+#EXTINF: -1 tvg-id="9A7" tvg-name="PFC 7 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes", PFC 7 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5331.m3u8
+#EXTINF: -1 tvg-id="9A8" tvg-name="PFC 8" tvg-logo="http://img.miptv.ws/Premiere_8.png" group-title="Esportes", PFC 8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/769.m3u8
+#EXTINF: -1 tvg-id="781" tvg-name="PFC 9" tvg-logo="http://img.miptv.ws/Premiere_9.png" group-title="Esportes", PFC 9
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/768.m3u8
+#EXTINF: -1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes", SporTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/748.m3u8
+#EXTINF: -1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes", SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/749.m3u8
+#EXTINF: -1 tvg-id="SPO" tvg-name="Sportv Full HD" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes", Sportv Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5438.m3u8
+#EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SporTV2" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes", SporTV2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/747.m3u8
+#EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SporTV2 HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes", SporTV2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/751.m3u8
+#EXTINF: -1 tvg-id="SP2" tvg-name="Sportv 2 Full HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes", Sportv 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5439.m3u8
+#EXTINF: -1 tvg-id="Sportv3.br" tvg-name="SporTV3" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes", SporTV3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/745.m3u8
+#EXTINF: -1 tvg-id="Sportv3.br" tvg-name="SporTV3 HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes", SporTV3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/750.m3u8
+#EXTINF: -1 tvg-id="SP3" tvg-name="Sportv 3 Full HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes", Sportv 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5440.m3u8
+#EXTINF: -1 tvg-id="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes", Woohoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/704.m3u8
+#EXTINF: -1 tvg-id="WOO" tvg-name="Woohoo HD" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes", Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5657.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES", COPA LIBERTADORES HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11444.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES", DAZN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11443.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES", EI PLUS SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11483.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES", EI PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11484.m3u8
+#EXTINF: -1 tvg-name="COPA DO NORDESTE 1" group-title="ESPECIAL / ESPORTES", COPA DO NORDESTE 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11967.m3u8
+#EXTINF: -1 tvg-name="COPA DO NORDESTE 2" group-title="ESPECIAL / ESPORTES", COPA DO NORDESTE 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11968.m3u8
+#EXTINF: -1 tvg-name="COPA DO NORDESTE 3" group-title="ESPECIAL / ESPORTES", COPA DO NORDESTE 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11969.m3u8
+#EXTINF: -1 tvg-name="Globoesporte.com" group-title="ESPECIAL / ESPORTES", Globoesporte.com
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11970.m3u8
+#EXTINF: -1 tvg-name="COPA CATARINENSE" group-title="ESPECIAL / ESPORTES", COPA CATARINENSE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11971.m3u8
+#EXTINF: -1 tvg-name="COPA CATARINENSE HD" group-title="ESPECIAL / ESPORTES", COPA CATARINENSE HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11972.m3u8
+#EXTINF: -1 tvg-name="COPA CATARINENSE 2" group-title="ESPECIAL / ESPORTES", COPA CATARINENSE 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11973.m3u8
+#EXTINF: -1 tvg-name="COPA CATARINENSE 2 HD" group-title="ESPECIAL / ESPORTES", COPA CATARINENSE 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/11974.m3u8
+#EXTINF: -1 tvg-name="DAZN2" group-title="ESPECIAL / ESPORTES", DAZN2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12028.m3u8
+#EXTINF: -1 tvg-name="DAZN3" group-title="ESPECIAL / ESPORTES", DAZN3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12029.m3u8
+#EXTINF: -1 tvg-name="DAZN4" group-title="ESPECIAL / ESPORTES", DAZN4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12030.m3u8
+#EXTINF: -1 tvg-name="DAZN5" group-title="ESPECIAL / ESPORTES", DAZN5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12031.m3u8
+#EXTINF: -1 tvg-name="DAZN6" group-title="ESPECIAL / ESPORTES", DAZN6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12032.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 02" group-title="ESPECIAL / ESPORTES", Ei Plus 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12088.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 03" group-title="ESPECIAL / ESPORTES", Ei Plus 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12089.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 04" group-title="ESPECIAL / ESPORTES", Ei Plus 04
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12090.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 05" group-title="ESPECIAL / ESPORTES", Ei Plus 05
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12091.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 06" group-title="ESPECIAL / ESPORTES", Ei Plus 06
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12092.m3u8
+#EXTINF: -1 tvg-name="FLA TV" group-title="ESPECIAL / ESPORTES", FLA TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13004.m3u8
+#EXTINF: -1 tvg-name="CONMEBOL TV 4" group-title="ESPECIAL / ESPORTES", CONMEBOL TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13443.m3u8
+#EXTINF: -1 tvg-name="CONMEBOL TV 3" group-title="ESPECIAL / ESPORTES", CONMEBOL TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13444.m3u8
+#EXTINF: -1 tvg-name="CONMEBOL TV 2" group-title="ESPECIAL / ESPORTES", CONMEBOL TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13445.m3u8
+#EXTINF: -1 tvg-name="CONMEBOL TV 1" group-title="ESPECIAL / ESPORTES", CONMEBOL TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/13446.m3u8
+#EXTINF: -1 tvg-name="CAMPEONATO CARIOCA 02 2021" group-title="ESPECIAL / ESPORTES", CAMPEONATO CARIOCA 02 2021
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14270.m3u8
+#EXTINF: -1 tvg-name="CAMPEONATO CARIOCA 01 2021" group-title="ESPECIAL / ESPORTES", CAMPEONATO CARIOCA 01 2021
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14271.m3u8
+#EXTINF: -1 tvg-name="Estádio TNT Sports HD" group-title="ESPECIAL / ESPORTES", Estádio TNT Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14648.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports SD" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14649.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 01" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14651.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 02" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14652.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 03" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14653.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 04" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 04
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14654.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 05" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 05
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14655.m3u8
+#EXTINF: -1 tvg-name="Estadio TNT Sports 06" group-title="ESPECIAL / ESPORTES", Estadio TNT Sports 06
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/14656.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 6" group-title="ESPECIAL / ESPORTES", HBO MAX 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15039.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 5" group-title="ESPECIAL / ESPORTES", HBO MAX 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15040.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 4" group-title="ESPECIAL / ESPORTES", HBO MAX 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15041.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 3" group-title="ESPECIAL / ESPORTES", HBO MAX 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15042.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 2" group-title="ESPECIAL / ESPORTES", HBO MAX 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15043.m3u8
+#EXTINF: -1 tvg-name="HBO MAX 1" group-title="ESPECIAL / ESPORTES", HBO MAX 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15044.m3u8
+#EXTINF: -1 tvg-name="STAR+ 1" group-title="ESPECIAL / ESPORTES", STAR+ 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15060.m3u8
+#EXTINF: -1 tvg-name="F1 TV PRO 04" group-title="ESPECIAL / ESPORTES", F1 TV PRO 04
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15506.m3u8
+#EXTINF: -1 tvg-name="F1 TV PRO 03" group-title="ESPECIAL / ESPORTES", F1 TV PRO 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15507.m3u8
+#EXTINF: -1 tvg-name="F1 TV PRO 02" group-title="ESPECIAL / ESPORTES", F1 TV PRO 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15508.m3u8
+#EXTINF: -1 tvg-name="F1 TV PRO 01" group-title="ESPECIAL / ESPORTES", F1 TV PRO 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15509.m3u8
+#EXTINF: -1 tvg-name="ATHLETICO FURAÇÃO LIVE" group-title="ESPECIAL / ESPORTES", ATHLETICO FURAÇÃO LIVE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15511.m3u8
+#EXTINF: -1 tvg-name="CANAL DO VOLEI 03" group-title="ESPECIAL / ESPORTES", CANAL DO VOLEI 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15512.m3u8
+#EXTINF: -1 tvg-name="CANAL DO VOLEI 02" group-title="ESPECIAL / ESPORTES", CANAL DO VOLEI 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15513.m3u8
+#EXTINF: -1 tvg-name="CANAL DO VOLEI 01" group-title="ESPECIAL / ESPORTES", CANAL DO VOLEI 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15514.m3u8
+#EXTINF: -1 tvg-name="LNF 03" group-title="ESPECIAL / ESPORTES", LNF 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15515.m3u8
+#EXTINF: -1 tvg-name="LNF 02" group-title="ESPECIAL / ESPORTES", LNF 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15516.m3u8
+#EXTINF: -1 tvg-name="LNF 01" group-title="ESPECIAL / ESPORTES", LNF 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15517.m3u8
+#EXTINF: -1 tvg-name="PRIME VIDEO 02" group-title="ESPECIAL / ESPORTES", PRIME VIDEO 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15518.m3u8
+#EXTINF: -1 tvg-name="PRIME VIDEO 01" group-title="ESPECIAL / ESPORTES", PRIME VIDEO 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15519.m3u8
+#EXTINF: -1 tvg-name="CRUZEIRO 2022" group-title="ESPECIAL / ESPORTES", CRUZEIRO 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15520.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 06 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 06 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15521.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 05 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 05 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15522.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 04 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 04 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15523.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 03 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 03 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15524.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 02 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 02 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15525.m3u8
+#EXTINF: -1 tvg-name="PARANAENSE 01 2022" group-title="ESPECIAL / ESPORTES", PARANAENSE 01 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15526.m3u8
+#EXTINF: -1 tvg-name="CEARENSE 03 2022" group-title="ESPECIAL / ESPORTES", CEARENSE 03 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15527.m3u8
+#EXTINF: -1 tvg-name="CEARENSE 02 2022" group-title="ESPECIAL / ESPORTES", CEARENSE 02 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15528.m3u8
+#EXTINF: -1 tvg-name="CEARENSE 01 2022" group-title="ESPECIAL / ESPORTES", CEARENSE 01 2022
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15529.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Pica Pau" tvg-logo="http://img.miptv.ws/movies/Ana4VWt.jpg" group-title="Canais 24 Horas", Pica Pau
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5114.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Pokemon Sun and Moon 1º Temporada 2018" tvg-logo="http://img.miptv.ws/movies/pokemonsunandmon.jpg" group-title="Canais 24 Horas", Pokemon Sun and Moon 1º Temporada 2018
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5275.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Dragon Ball Super" tvg-logo="http://img.miptv.ws/movies/250px-Dragon_Ball_Super_artwork.jpg" group-title="Canais 24 Horas", Dragon Ball Super
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5277.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="A.I.C.O. Incarnation 2018" tvg-logo="http://img.miptv.ws/movies/encarnation.jpg" group-title="Canais 24 Horas", A.I.C.O. Incarnation 2018
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5276.m3u8
+#EXTINF: -1 tvg-id="NOEPG English" tvg-name="Tom & Jerry" tvg-logo="http://img.miptv.ws/movies/Tom-And-Jerry-Cartoon-New-High-Quality-Picture-2.jpg" group-title="Canais 24 Horas", Tom & Jerry
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5115.m3u8
+#EXTINF: -1 tvg-name="Bob Esponja 24H" group-title="Canais 24 Horas", Bob Esponja 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12033.m3u8
+#EXTINF: -1 tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" group-title="Canais 24 Horas", Cavaleiros dos Zodiacos 24H Saga Doze Casas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12034.m3u8
+#EXTINF: -1 tvg-name="Coragem o Cão Covarde 24H" group-title="Canais 24 Horas", Coragem o Cão Covarde 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12036.m3u8
+#EXTINF: -1 tvg-name="Dois Homens e Meio 24H" group-title="Canais 24 Horas", Dois Homens e Meio 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12037.m3u8
+#EXTINF: -1 tvg-name="Dragon Ball 24H" group-title="Canais 24 Horas", Dragon Ball 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12038.m3u8
+#EXTINF: -1 tvg-name="Familia da Pesada (Family Guy) 24H" group-title="Canais 24 Horas", Familia da Pesada (Family Guy) 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12039.m3u8
+#EXTINF: -1 tvg-name="Formiga Atomica 24H" group-title="Canais 24 Horas", Formiga Atomica 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12040.m3u8
+#EXTINF: -1 tvg-name="FUTURAMA 24H" group-title="Canais 24 Horas", FUTURAMA 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12041.m3u8
+#EXTINF: -1 tvg-name="Galinha Pintadinha 24H" group-title="Canais 24 Horas", Galinha Pintadinha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12042.m3u8
+#EXTINF: -1 tvg-name="Luluzinha 24H" group-title="Canais 24 Horas", Luluzinha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12043.m3u8
+#EXTINF: -1 tvg-name="Mickey e Donald 24H" group-title="Canais 24 Horas", Mickey e Donald 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12044.m3u8
+#EXTINF: -1 tvg-name="Os Trapalhões 24H" group-title="Canais 24 Horas", Os Trapalhões 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12045.m3u8
+#EXTINF: -1 tvg-name="Peppa Pig 24H" group-title="Canais 24 Horas", Peppa Pig 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12046.m3u8
+#EXTINF: -1 tvg-name="South Parks 24H" group-title="Canais 24 Horas", South Parks 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12047.m3u8
+#EXTINF: -1 tvg-name="Thundercats 24H" group-title="Canais 24 Horas", Thundercats 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12048.m3u8
+#EXTINF: -1 tvg-name="Todo Mundo Odeia o Cris 24H" group-title="Canais 24 Horas", Todo Mundo Odeia o Cris 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12049.m3u8
+#EXTINF: -1 tvg-name="Um Maluco no Pedaço 24H" group-title="Canais 24 Horas", Um Maluco no Pedaço 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12050.m3u8
+#EXTINF: -1 tvg-name="As aventuras de Jackie Chan 24H" group-title="Canais 24 Horas", As aventuras de Jackie Chan 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12051.m3u8
+#EXTINF: -1 tvg-name="Corrida Maluca 24H" group-title="Canais 24 Horas", Corrida Maluca 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12052.m3u8
+#EXTINF: -1 tvg-name="Kenan e Kel 24H" group-title="Canais 24 Horas", Kenan e Kel 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12053.m3u8
+#EXTINF: -1 tvg-name="O Mascara 24H" group-title="Canais 24 Horas", O Mascara 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12054.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 24H" group-title="Canais 24 Horas", The Big Bang Theory 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12055.m3u8
+#EXTINF: -1 tvg-name="Tico e Teco 24H" group-title="Canais 24 Horas", Tico e Teco 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/12056.m3u8
+#EXTINF: -1 tvg-name="XX: Hot" tvg-logo="http://img.miptv.ws/HOT.png" group-title="Adultos", XX: Hot
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/511.m3u8
+#EXTINF: -1 tvg-name="XX: Playboy TV" tvg-logo="http://img.miptv.ws/Playboy_TV.png" group-title="Adultos", XX: Playboy TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/516.m3u8
+#EXTINF: -1 tvg-name="XX: Playboy TV HD" tvg-logo="http://img.miptv.ws/Playboy_TV.png" group-title="Adultos", XX: Playboy TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/5419.m3u8
+#EXTINF: -1 tvg-name="XX: Venus" tvg-logo="http://img.miptv.ws/Venus.png" group-title="Adultos", XX: Venus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/900.m3u8
+#EXTINF: -1 tvg-name="24h GAROTAS DA VAN" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h GAROTAS DA VAN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15505.m3u8
+#EXTINF: -1 tvg-name="24h CONTOS MULTISHOW" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h CONTOS MULTISHOW
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15500.m3u8
+#EXTINF: -1 tvg-name="24h COSPLAY +18" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h COSPLAY +18
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15501.m3u8
+#EXTINF: -1 tvg-name="24h ELISA SANCHES" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h ELISA SANCHES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15502.m3u8
+#EXTINF: -1 tvg-name="24h FESTAS PRIME BRASIL" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h FESTAS PRIME BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15503.m3u8
+#EXTINF: -1 tvg-name="24h GANGBANG" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h GANGBANG
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15504.m3u8
+#EXTINF: -1 tvg-name="24h BRAD MONTANA" tvg-logo="http://a.srvbr.me:8880/images/26f33924979a43a595937d9792081c73.png" group-title="Adultos", 24h BRAD MONTANA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15498.m3u8
+#EXTINF: -1 tvg-name="24h AMADORAS" tvg-logo="http://topuhd.live:8080/images/e4c072dc68bbdab456be63a6225c4dc9.png" group-title="Adultos", 24h AMADORAS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://cdn.miptv.ws:8880/live/yztbz/cojdzn/15497.m3u8
