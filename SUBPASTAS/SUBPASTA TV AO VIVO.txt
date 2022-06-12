@@ -41,7 +41,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-   [COLOR yellow][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
+   [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY.txt</externallink>
 <fanart></fanart>
@@ -68,7 +68,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 6[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-   [COLOR yellow][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
+   [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%206.txt</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 24/06/2022
@@ -81,7 +81,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 7[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-   [COLOR yellow][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
+   [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%207.txt</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 20/06/2022
@@ -94,7 +94,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 8[/B][/COLOR] - [COLOR lime][B]4K[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
-   [COLOR yellow][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
+   [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%208.txt</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 13/01/2023
