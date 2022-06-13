@@ -8,6 +8,15 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow][B]●[/B][/COLOR] [COLOR white][B]FUTEBOL AO VIVO[/B][/COLOR]
+   [COLOR lime][B][I]Disponível em breve....[/I][/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
+<info>Todos os jogos do seu time em um só lugar com ótima qualidade sem necessidade de ficar procurando nos servidores de [I]TV AO VIVO[/I].</info>
+<date></date>
+
+<channels>
+<channel>
 <name>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/vZrDZ8r/Filmes.png</thumbnail>
 <externallink></externallink>
