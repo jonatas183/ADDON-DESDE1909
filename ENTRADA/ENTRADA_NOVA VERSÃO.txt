@@ -4,7 +4,7 @@
 <thumbnail>https://i.ibb.co/Q6nxHXF/tv-ao-vivo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO.txt</externallink>
 <info>Os melhores servidores de canais IPTV você encontra aqui totalmente de graça.</info>
-<date>14/06/2022</date>
+<date>16/06/2022</date>
 
 <channels>
 <channel>
