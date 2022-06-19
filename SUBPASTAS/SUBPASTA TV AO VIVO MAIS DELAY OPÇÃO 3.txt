@@ -1,0 +1,27 @@
+<channels>
+<channel>
+<name>[COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]MAIS DELAY[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bWLMB8c/op-o-1.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/07/2022
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]EXCELENTE[/B][/COLOR]
+
+O status do servidor é atualizado somente se houver alterações nele.
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]18/06/2022[/B][/COLOR] - [COLOR lime][B]22:20[/B][/COLOR]</info>
+
+<channels>
+<channel>
+<name>[COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]MENOS DELAY[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/xLM5dPT/op-o-2.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/07/2022
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR yellow][B]BOM[/B][/COLOR]
+
+O status do servidor é atualizado somente se houver alterações nele.
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]18/06/2022[/B][/COLOR] - [COLOR lime][B]22:20[/B][/COLOR]</info>
