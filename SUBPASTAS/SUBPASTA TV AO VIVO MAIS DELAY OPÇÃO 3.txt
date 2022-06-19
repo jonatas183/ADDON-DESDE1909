@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR] - [COLOR lime][B]MAIS DELAY[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/bWLMB8c/op-o-1.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MAIS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203.m3u</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/07/2022
 
@@ -16,7 +16,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 <channel>
 <name>[COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]MENOS DELAY[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/xLM5dPT/op-o-2.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/07/2022
 
