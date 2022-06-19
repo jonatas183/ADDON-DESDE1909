@@ -29,7 +29,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
    [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/9NFSD73/op-o-3.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%203.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/07/2022
 
