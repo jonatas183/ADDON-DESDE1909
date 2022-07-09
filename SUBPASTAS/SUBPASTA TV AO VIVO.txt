@@ -97,7 +97,7 @@ O status do servidor é atualizado somente se houver alterações nele.
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%208.txt</externallink>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 13/01/2023
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]OFFLINE]
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR red][B]OFFLINE[/B][/COLOR]
 
 O status do servidor é atualizado somente se houver alterações nele.
 
