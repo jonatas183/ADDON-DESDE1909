@@ -4,7 +4,7 @@
 <thumbnail>https://i.ibb.co/bWLMB8c/op-o-1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%201.m3u</externallink>
 <fanart></fanart>
-<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 25/07/2022 
+<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 25/08/2022 
 
 [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]EXCELENTE[/B][/COLOR]
 
