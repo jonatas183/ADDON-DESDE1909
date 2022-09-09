@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://5ce.me/xmltv.php?username=Eduardo9982&password=03901l99"
 #EXTINF: -1 tvg-name="Fla TV" group-title="PAY-PER-VIEW", Fla TV
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&maxbitrate=0&buffer=20191129153332&url=http://5ce.me:80/live/Eduardo9982/03901l99/203543.ts|User-Agent=VLC/3.0.18
 #EXTINF: -1 tvg-name="Copa do Brasil 1" group-title="PAY-PER-VIEW", Copa do Brasil 1
