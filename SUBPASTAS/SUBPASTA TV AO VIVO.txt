@@ -15,13 +15,13 @@ O status do servidor é atualizado somente se houver alterações nele.
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]UHD[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/xLM5dPT/op-o-2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%202.m3u</externallink>
-<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 19/10/2022
+<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 25/10/2022
 
 [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]EXCELENTE[/B][/COLOR]
 
 O status do servidor é atualizado somente se houver alterações nele.
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]24/09/2022[/B][/COLOR] - [COLOR lime][B]19:18[/B][/COLOR]</info>
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]23/10/2022[/B][/COLOR] - [COLOR lime][B]13:51[/B][/COLOR]</info>
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
