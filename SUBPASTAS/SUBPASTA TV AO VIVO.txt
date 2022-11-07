@@ -38,17 +38,17 @@ O status do servidor é atualizado somente se houver alterações nele.
 [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]05/11/2022[/B][/COLOR] - [COLOR lime][B]13:18[/B][/COLOR]</info>
 
 <channel>
-<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]UHD[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/TV%20AO%20VIVO%20COM%20MENOS%20DELAY/TV%20AO%20VIVO%20OP%C3%87%C3%83O%204..txt</externallink>
 <fanart></fanart>
-<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] Sem Informação.
+<info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 11/11/2022
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR yellow][B]BOM[/B][/COLOR]
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR yellow][B]EM FASE TESTE.[/B][/COLOR]
 
 O status do servidor é atualizado somente se houver alterações nele.
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]25/09/2022[/B][/COLOR] - [COLOR lime][B]08:48[/B][/COLOR]</info>
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]06/11/2022[/B][/COLOR] - [COLOR lime][B]22:41[/B][/COLOR]</info>
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 5[/B][/COLOR] - [COLOR lime][B]UHD[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
