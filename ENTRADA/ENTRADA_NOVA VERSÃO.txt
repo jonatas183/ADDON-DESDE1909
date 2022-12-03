@@ -8,12 +8,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]●[/B][/COLOR] [COLOR white][B]FUTEBOL AO VIVO[/B][/COLOR]
-   [COLOR lime][B][I]Disponível em breve....[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]COPA DO MUNDO AO VIVO[/B][/COLOR]
+   [COLOR yellow][B][I]Temporário.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink></externallink>
-<info>Todos os jogos do seu time em um só lugar com ótima qualidade sem necessidade de ficar procurando nos servidores de [I]TV AO VIVO[/I].</info>
-<date></date>
+<externallink>https://</externallink>
+<info></info>
 
 <channels>
 <channel>
