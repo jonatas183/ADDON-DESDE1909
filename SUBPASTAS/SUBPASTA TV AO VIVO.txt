@@ -9,7 +9,7 @@
 
 O status do servidor é atualizado somente se houver alterações nele.
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]13/11/2022[/B][/COLOR] - [COLOR lime][B]14:02[/B][/COLOR]</info>
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]03/12/2022[/B][/COLOR] - [COLOR lime][B]18:05[/B][/COLOR]</info>
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR] - [COLOR lime][B]UHD[/B][/COLOR]|[COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
@@ -24,18 +24,18 @@ O status do servidor é atualizado somente se houver alterações nele.
 [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]23/10/2022[/B][/COLOR] - [COLOR lime][B]13:51[/B][/COLOR]</info>
 
 <channel>
-<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
+<name>[COLOR red][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]
    [COLOR lime][B][I]Contém 2 opções.[/I][/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/9NFSD73/op-o-3.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO%20MAIS%20DELAY%20OP%C3%87%C3%83O%203.txt</externallink>
 <fanart></fanart>
 <info>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data de Expiração:[/B][/COLOR] 01/12/2022
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR lime][B]EXCELENTE[/B][/COLOR]
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Status do Servidor:[/B][/COLOR] [COLOR red][B]OFFLINE[/B][/COLOR]
 
 O status do servidor é atualizado somente se houver alterações nele.
 
-[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]05/11/2022[/B][/COLOR] - [COLOR lime][B]13:18[/B][/COLOR]</info>
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Data & Hora da atualização de Status:[/B][/COLOR] [COLOR lime][B]03/12/2022[/B][/COLOR] - [COLOR lime][B]18:16[/B][/COLOR]</info>
 
 <channel>
 <name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]|[COLOR lime][B]SD[/B][/COLOR]</name>
