@@ -11,7 +11,7 @@
 <name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]COPA DO MUNDO AO VIVO[/B][/COLOR]
    [COLOR yellow][B][I]Temporário.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20FUTEBOL%20AO%20VIVO.txt</externallink>
 <info></info>
 
 <channels>
