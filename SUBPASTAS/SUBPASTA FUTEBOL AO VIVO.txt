@@ -1,28 +1,45 @@
 <item>
-    <title>[COLOR yellow][B]JOGOS DO BRASILEIRÃO[/B][/COLOR]</title>
-       <link>http://</link>
-    <thumbnail>https://www.campeonatobrasileiro.com.br/uploads/noticias/serie-a-tabela-times.png</thumbnail>
-    <info></info>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]França[/B][/COLOR] x [COLOR white][B]Polônia[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+       
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+	   
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD [ALT][/B][/COLOR]</link>
+	
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+	
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
+	
+    <thumbnail>https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2022/12/franca-polonia-copa-do-mundo-audiencia-carioca-eduardo-moura.jpg?resize=1260%2C710&ssl=1</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Domindo, 04 de Dezembro de 2022
+
+[COLOR lime][B]Horário[/B][/COLOR]: 12:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Al Thumama Stadium
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Sportv
+    </info>
 </item>
 
 <item>
-    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Bahia - BA[/B][/COLOR] x [COLOR white][B]Grêmio - RS[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
-       <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/tamires123/tamires321/856251
-$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
-    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/5860306580/fireurl.co/72262.ts
-$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD [ALT][/B][/COLOR]</link>
-    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/tamires123/tamires321/856249
-$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
-    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/5860306580/fireurl.co/72265.ts
-$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
-    <thumbnail>https://www.minhatorcida.com.br/imagens/post/14311/bahia-x-gremio.jpg</thumbnail>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Inglaterra[/B][/COLOR] x [COLOR white][B]Senegal[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+       
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+	   
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD [ALT][/B][/COLOR]</link>
+	
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+	
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
+	
+    <thumbnail>https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2022/12/inglaterra-senegal-copa-do-mundo-audiencia-carioca-eduardo-moura.jpg?resize=1260%2C710&ssl=1</thumbnail>
     <info>
-[COLOR lime][B]Dia[/B][/COLOR]: Sexta, 26 de Novembro de 2021
+[COLOR lime][B]Dia[/B][/COLOR]: Domindo, 04 de Dezembro de 2022
 
-[COLOR lime][B]Horário[/B][/COLOR]: 19:00
+[COLOR lime][B]Horário[/B][/COLOR]: 16:00
 
-[COLOR lime][B]Local[/B][/COLOR]: Arena Fonte Nova - Salvador - BA
+[COLOR lime][B]Local[/B][/COLOR]: Al Bayt Stadium
 
-[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+[COLOR lime][B]Transmissão[/B][/COLOR]: Sportv
     </info>
 </item>
