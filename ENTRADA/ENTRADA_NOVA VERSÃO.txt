@@ -3,8 +3,12 @@
 <name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]TV AO VIVO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Q6nxHXF/tv-ao-vivo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20TV%20AO%20VIVO.txt</externallink>
-<info>Os melhores servidores de canais IPTV você encontra aqui totalmente de graça.</info>
-<date>16/10/2022</date>
+<info>Os melhores servidores de canais IPTV você encontra aqui totalmente de graça.
+
+[COLOR lime][B]NÚMERO TOTAL DE SERVIDORES[/B][/COLOR]: [COLOR white][B]8[/B][/COLOR]
+
+[COLOR lime][B]NÚMERO DE SERVIDORES ONLINE NO MOMENTO[/B][/COLOR]: [COLOR white][B]8[/B][/COLOR]</info>
+<date>03/12/2022</date>
 
 <channels>
 <channel>
