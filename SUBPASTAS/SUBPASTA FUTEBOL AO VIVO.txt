@@ -1,5 +1,5 @@
 <item>
-    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]França[/B][/COLOR] x [COLOR white][B]Polônia[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Marrocos[/B][/COLOR] x [COLOR white][B]Espanha[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
        
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
 	   
@@ -9,20 +9,20 @@
 	
     <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
 	
-    <thumbnail>https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2022/12/franca-polonia-copa-do-mundo-audiencia-carioca-eduardo-moura.jpg?resize=1260%2C710&ssl=1</thumbnail>
+    <thumbnail>https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2022/12/marrocos-espanha-copa-do-mundo-audiencia-carioca-eduardo-moura.jpg?resize=1260%2C710&ssl=1</thumbnail>
     <info>
-[COLOR lime][B]Dia[/B][/COLOR]: Domindo, 04 de Dezembro de 2022
+[COLOR lime][B]Dia[/B][/COLOR]: Terça-Feira, 06 de Dezembro de 2022
 
 [COLOR lime][B]Horário[/B][/COLOR]: 12:00
 
-[COLOR lime][B]Local[/B][/COLOR]: Al Thumama Stadium
+[COLOR lime][B]Local[/B][/COLOR]: Ar-Rayyan, Catar
 
 [COLOR lime][B]Transmissão[/B][/COLOR]: Sportv
     </info>
 </item>
 
 <item>
-    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Inglaterra[/B][/COLOR] x [COLOR white][B]Senegal[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Portugal[/B][/COLOR] x [COLOR white][B]Suíça[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
        
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://axr.life:80/096154/686531/29359|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
 	   
@@ -32,13 +32,13 @@
 	
     <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0$$lsname=[COLOR white][B]Sportv[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
 	
-    <thumbnail>https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2022/12/inglaterra-senegal-copa-do-mundo-audiencia-carioca-eduardo-moura.jpg?resize=1260%2C710&ssl=1</thumbnail>
+    <thumbnail>https://futdados.com/wp-content/uploads/2022/12/Design-sem-nome-42.jpg</thumbnail>
     <info>
-[COLOR lime][B]Dia[/B][/COLOR]: Domindo, 04 de Dezembro de 2022
+[COLOR lime][B]Dia[/B][/COLOR]: Terça-Feira, 06 de Dezembro de 2022
 
 [COLOR lime][B]Horário[/B][/COLOR]: 16:00
 
-[COLOR lime][B]Local[/B][/COLOR]: Al Bayt Stadium
+[COLOR lime][B]Local[/B][/COLOR]: Lusail Stadium
 
 [COLOR lime][B]Transmissão[/B][/COLOR]: Sportv
     </info>
