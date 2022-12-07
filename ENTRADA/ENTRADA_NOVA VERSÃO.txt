@@ -12,11 +12,13 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]COPA DO MUNDO AO VIVO[/B][/COLOR]
+<name>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]COPA DO MUNDO AO VIVO[/B][/COLOR]
    [COLOR yellow][B][I]Temporário.[/I][/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://raw.githubusercontent.com/jonatas183/ADDON-DESDE1909/main/SUBPASTAS/SUBPASTA%20FUTEBOL%20AO%20VIVO.txt</externallink>
-<info>Assista todos os jogos da Copa do Mundo com a melhor qualidade e sem a nessecidade de ficar procurando nos servidores de TV AO VIVO.</info>
+<externallink>https://</externallink>
+<info>Assista todos os jogos da Copa do Mundo com a melhor qualidade e sem a nessecidade de ficar procurando nos servidores de TV AO VIVO.
+
+[COLOR yellow][B]Sem jogos no momento.[/B][/COLOR]</info>
 
 <channels>
 <channel>
