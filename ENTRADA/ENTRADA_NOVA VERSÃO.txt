@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]ATUALIZE PARA A NOVA VERSÃO.[/B][/COLOR]</name>
+<name>[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]ATUALIZE PARA A NOVA VERSÃO.[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Q6nxHXF/tv-ao-vivo.png</thumbnail>
 <externallink>https://</externallink>
-<info>Os melhores servidores de canais IPTV você encontra aqui totalmente de graça.</info>
-<date>09/01/2023</date>
+<info>Entre em contato com o administrador para fazer a atualização.</info>
+<date>07/04/2023</date>
 
 <channels>
 <channel>
